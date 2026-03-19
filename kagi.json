@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Microck/kagi-cli/releases/download/v0.3.0/kagi-v0.3.0-x86_64-pc-windows-msvc.zip",
-      "hash": "20e44654c81b49fc8ddc949bf181aa777f879ce20c87e76484b663805dad15e2"
+      "hash": "52dbc27d23d04d956a6d12f28136983334dd6565a57b2519227074d74dd6b82b"
     }
   },
   "bin": "kagi.exe",
