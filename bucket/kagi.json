@@ -1,12 +1,12 @@
 {
-  "version": "0.1.5",
+  "version": "0.3.1",
   "description": "Agent-native Rust CLI for Kagi subscribers with JSON-first output.",
   "homepage": "https://github.com/Microck/kagi-cli",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Microck/kagi-cli/releases/download/v0.1.5/kagi-v0.1.5-x86_64-pc-windows-msvc.zip",
-      "hash": "d031b7f6e5885962697171b87d0570028ff524646cc22e73eb621af70a502361"
+      "url": "https://github.com/Microck/kagi-cli/releases/download/v0.3.1/kagi-v0.3.1-x86_64-pc-windows-msvc.zip",
+      "hash": "884cbfb9a13bee23a2bdf09e64f187847491d0084f35261b853a30c6f8037410"
     }
   },
   "bin": "kagi.exe",
